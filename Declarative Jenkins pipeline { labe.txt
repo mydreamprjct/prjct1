@@ -1,0 +1,3 @@
+Declarative Jenkins pipeline { label linux stage { steps label win stage {
+
+Scripted pipeline      node { stages }    
